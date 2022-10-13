@@ -1,0 +1,30 @@
+body{
+    background-color:gray
+}
+
+img{height: 300px;}
+
+#restaurant{width: 400px; margin-left: auto; margin-right: auto; display: block;}
+
+h3{color: maroon;}
+
+a{text-decoration: none; color: green; text-align: center;}
+
+article{display: inline;}
+
+section{width: 90%;}
+
+header{text-align: center;color: maroon; background-color: black; font-size: larger;}
+
+h3{text-align: center;}
+
+p{text-align: center;}
+
+footer{text-align: center; color: green; font-size: larger; background-color: black;}
+
+img{background-color: tan;}
+
+
+
+
+
