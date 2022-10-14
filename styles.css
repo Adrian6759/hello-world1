@@ -1,32 +1,75 @@
-body{
-    background-color:gray
+body {
+    background-color: gray
 }
 
-img{height: 300px; margin-left: auto; margin-right: auto; display: block;}
+img {
+    height: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
-#restaurant{width: 400px; margin-left: auto; margin-right: auto; display: block;}
+#restaurant {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
 
-h3{color: maroon;}
+h3 {
+    color: maroon;
+}
 
-a{text-decoration: none; color: green; text-align: center;}
+a {
+    text-decoration: none;
+    color: green;
+    margin-left: auto;
+    margin-right: auto;
+}
 
-article{display: inline;}
+article {
+    display: inline;
+}
 
-section{width: 90%;}
+section {
+    width: 90%; align-items: center; text-align: center;
+}
 
-header{text-align: center;color: maroon; background-color: black; font-size: larger;}
+header {
+    text-align: center;
+    color: maroon;
+    background-color: black;
+    font-size: larger;
+}
 
-h3{text-align: center;}
+h3 {
+    text-align: center;
+}
 
-p{text-align: center;}
+p {
+    text-align: center;
+}
 
-footer{text-align: center; color: green; font-size: larger; background-color: black;}
+footer {
+    text-align: center;
+    color: green;
+    font-size: larger;
+    background-color: black;
+}
 
-img{background-color: tan;}
+script {
+    text-align: center;
+    color: maroon;
+}
 
-script{text-align: center;}
+.taco4 {
+    height: 150px;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    display: inline;
+}
 
-
-
-
-
+body {
+    text-align: center;align-items: center;
+}
